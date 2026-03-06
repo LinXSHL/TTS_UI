@@ -1,0 +1,1 @@
+You should download python on your laptop, and download some packaages. pip install tkinter pip install edge_tts; pip install threading; pip install platform; pip install subprocess; pip install asyncio 下载python,之后下载一些库，然后即可运行
